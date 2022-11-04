@@ -9,3 +9,6 @@ The editor supports for inputting via Pandoc’s Markdown, CommonMark, GitHub Fl
 ````bash
 ./apostrophe.sh
 ````
+## I3
+i3 is a tiling window manager designed for X11, inspired by wmii and written in C. It supports tiling, stacking, and tabbing layouts, which it handles dynamically. Wikipedia
+### Go to i3 directory and read the `README.MD` there!

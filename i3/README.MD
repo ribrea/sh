@@ -24,5 +24,9 @@ Using two language in i3 is one of the problems in i3vm just use this script to 
 # Edit the script as your needs
 ./language.sh
 ````
-
+## transparent_terminal.sh
+Transparent your terminal !
+````bash
+./transparent_terminal.sh
+````
 also you add these scripts to your i3 configure to run every time you start the i3
